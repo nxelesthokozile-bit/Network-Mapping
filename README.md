@@ -35,17 +35,8 @@ The subnet mask 255.255.254.0 defines the network range and determines which dev
 The default gateway 172.20.6.1 is the router that connects my local network to the internet.
 
 Network Diagram
-                     Internet
-                         |
-                       [ISP]
-                         |
-                 Router / Gateway
-                   172.20.6.1
-                         |
-                -------------------
-                |                 |
-           My Laptop        Other Devices
-          172.20.7.88     (Same network range)
+                     
+![Uploading BCO.8b172a72-da00-497b-9231-a607a54992cd.png…]()
 
 Ping Test Results
 1. Ping to 8.8.8.8
